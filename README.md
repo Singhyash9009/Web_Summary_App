@@ -19,8 +19,4 @@ streamlit run SummaryApp.py
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 =======
-```
-tool
 
-```
->>>>>>> f9e39205d10a8050e64e5f60a3afd4299f384972
