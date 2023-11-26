@@ -1,0 +1,7 @@
+selenium
+nltk
+numpy
+pandas 
+keras
+transformers
+-e .
