@@ -12,8 +12,10 @@ streamlit run SummaryApp.py
 ```
 #### 5) Streamlit app will open
 #### 6) Insert your Csv file containing website's url
-* Column like--> ['Website_name']= ex-https://www.tcs.com
-
+```
+* Column like--> ['Website_name']
+*                https://www.tcs.com
+```
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
