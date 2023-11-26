@@ -1,5 +1,5 @@
 # Web_Summary_App
-<<<<<<< HEAD
+
 #### 1) Create environement
 #### 2) Replicate all the files
 #### 3) Pip install requirements.txt file
